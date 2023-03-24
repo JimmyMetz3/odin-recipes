@@ -1,3 +1,9 @@
+/* Adjusted image sizes */
+
 #chili {
+    width: 500px;
+}
+
+#spam {
     width: 500px;
 }
